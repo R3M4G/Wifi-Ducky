@@ -3,7 +3,7 @@ Wifi Password Stealer (USB rubber ducky to steal wifi password)
 
 Noob friendly :)
 
-##How to use it:-
+## How to use it:-
 1.Download and Copy all the given files on your USB drive.
 2.Edit 1.bat using notepad.
 3.Replace the "Wifi-Name" in 1.bat with your victims wifi name.
@@ -13,6 +13,6 @@ Noob friendly :)
 7.Take the USB drive back and open pass.txt
 8.Voila you stole the wifi password
 
-###Warning
+### Warning
 This is for educational purpose only XD
 Hacking is illegal :p
