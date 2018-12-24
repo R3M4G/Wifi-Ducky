@@ -1,6 +1,8 @@
 # Wifi-Ducky
 Wifi Password Stealer (USB rubber ducky to steal wifi password)
 
+Made with 3> by z3k3
+
 Noob friendly :)
 
 ## How to use it:-
